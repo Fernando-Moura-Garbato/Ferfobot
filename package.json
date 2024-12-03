@@ -1,0 +1,15 @@
+{
+  "name": "ferfoboy",
+  "version": "0.0.9",
+  "description": "A tool-bot for TTRPG servers.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Fernando Moura Garbato",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^14.16.3",
+    "ferfoboy": "file:"
+  }
+}
